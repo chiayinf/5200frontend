@@ -13,7 +13,7 @@ export default function CustNav() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav>
               <Navbar.Brand href="/">Seattle Crime Dashboard</Navbar.Brand>
-              <Nav.Link href="/search">Search Report</Nav.Link>
+              {/* <Nav.Link href="/search">Search Report</Nav.Link> */}
               <Nav.Link href="/demo">Demo Charts</Nav.Link>
               <Nav.Link href="/create">Create New Report</Nav.Link>
             </Nav>
